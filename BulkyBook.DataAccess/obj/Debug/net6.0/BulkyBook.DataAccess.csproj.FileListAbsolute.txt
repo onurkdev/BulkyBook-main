@@ -1,0 +1,17 @@
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.DataAccess.deps.json
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.DataAccess.runtimeconfig.json
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.DataAccess.dll
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.DataAccess.pdb
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.Models.dll
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.Models.pdb
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.csproj.AssemblyReference.cache
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.AssemblyInfoInputs.cache
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.AssemblyInfo.cs
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.csproj.CopyComplete
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.dll
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/obj/Debug/net6.0/refint/BulkyBook.DataAccess.dll
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.pdb
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.genruntimeconfig.cache
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/obj/Debug/net6.0/ref/BulkyBook.DataAccess.dll

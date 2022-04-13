@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{9B4EA184-C079-4470-86BA-1DD0570BA262}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="BulkyBookWeb/Views/Shared/_Layout.cshtml" Line="64" Column="1" />
+      <File FileName="BulkyBookWeb/wwwroot/css/site.css" Line="12331" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BulkyBook" expanded="True">
+            <Node name="BulkyBook.DataAccess" expanded="True" />
+            <Node name="BulkyBook.Models" expanded="True" />
+            <Node name="BulkyBook.Utility" expanded="True" />
+            <Node name="BulkyBookWeb" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.BulkyBook.Utility FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
