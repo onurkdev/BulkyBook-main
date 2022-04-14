@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/BulkyBook.Models.csproj": {}
+    "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\BulkyBook.Models.csproj": {}
   },
   "projects": {
-    "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/BulkyBook.Models.csproj": {
+    "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/BulkyBook.Models.csproj",
+        "projectUniqueName": "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\BulkyBook.Models.csproj",
         "projectName": "BulkyBook.Models",
-        "projectPath": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/BulkyBook.Models.csproj",
-        "packagesPath": "/Users/onurkurtulmus/.nuget/packages/",
-        "outputPath": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/obj/",
+        "projectPath": "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "packagesPath": "C:\\Users\\Onur.Kurtulmus\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/onurkurtulmus/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Onur.Kurtulmus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
