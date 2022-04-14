@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eFB9Jxg+WosT3x6bglRFOdB8wwKA0KKE205O1LZObFQ=",
+  "Hash": "V+CKsMsTf+mSiVynDStBSsVZymogv+aclJ6ATHc7cqI=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/site.js"
+    },
+    {
+      "Identity": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBookWeb/wwwroot/lib/.DS_Store",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBookWeb/wwwroot/",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "lib/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/.DS_Store"
     },
     {
       "Identity": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBookWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",

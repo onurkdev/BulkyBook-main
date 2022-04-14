@@ -7,7 +7,6 @@
             <Node name="BulkyBook.DataAccess" expanded="True">
               <Node name="Repository" expanded="True">
                 <Node name="IRepository" expanded="True" />
-                <Node name="CategoryRepository.cs" selected="True" />
               </Node>
             </Node>
             <Node name="BulkyBookWeb" expanded="True">
