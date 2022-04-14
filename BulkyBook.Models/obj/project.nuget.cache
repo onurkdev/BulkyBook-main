@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BFerV9KiGAT5LOh8lWCsnRRv/o4A7R0+8uLkO06AMMzNjP/F43gHW0986IqQj9D0EY5cT0YC6TifkhwylqcGCA==",
+  "dgSpecHash": "PPW0fwsvWzGVkDhAGtpB+0ytq3+TTBwPu5XUrERxihmRrgfKo3U44RYt5WRMOZRrUE8tjMJjy3zWbQAKPHpZ/Q==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\BulkyBook.Models.csproj",
+  "projectFilePath": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/BulkyBook.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

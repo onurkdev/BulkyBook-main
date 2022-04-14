@@ -1,40 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\BulkyBook-main\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
+    "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBookWeb/BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\BulkyBook-main\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
+    "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\BulkyBook-main\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+        "projectUniqueName": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj",
         "projectName": "BulkyBook.DataAccess",
-        "projectPath": "C:\\Repos\\BulkyBook-main\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Onur.Kurtulmus\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\BulkyBook-main\\BulkyBook.DataAccess\\obj\\",
+        "projectPath": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj",
+        "packagesPath": "/Users/onurkurtulmus/.nuget/packages/",
+        "outputPath": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Onur.Kurtulmus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/onurkurtulmus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\BulkyBook.Models.csproj": {
-                "projectPath": "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\BulkyBook.Models.csproj"
+              "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/BulkyBook.Models.csproj": {
+                "projectPath": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/BulkyBook.Models.csproj"
               }
             }
           }
@@ -83,33 +76,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+    "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "projectUniqueName": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/BulkyBook.Models.csproj",
         "projectName": "BulkyBook.Models",
-        "projectPath": "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\BulkyBook.Models.csproj",
-        "packagesPath": "C:\\Users\\Onur.Kurtulmus\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\obj\\",
+        "projectPath": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/BulkyBook.Models.csproj",
+        "packagesPath": "/Users/onurkurtulmus/.nuget/packages/",
+        "outputPath": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Onur.Kurtulmus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/onurkurtulmus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -142,44 +128,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Repos\\BulkyBook-main\\BulkyBookWeb\\BulkyBookWeb.csproj": {
+    "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBookWeb/BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\BulkyBook-main\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBookWeb/BulkyBookWeb.csproj",
         "projectName": "BulkyBookWeb",
-        "projectPath": "C:\\Repos\\BulkyBook-main\\BulkyBookWeb\\BulkyBookWeb.csproj",
-        "packagesPath": "C:\\Users\\Onur.Kurtulmus\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\BulkyBook-main\\BulkyBookWeb\\obj\\",
+        "projectPath": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBookWeb/BulkyBookWeb.csproj",
+        "packagesPath": "/Users/onurkurtulmus/.nuget/packages/",
+        "outputPath": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBookWeb/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Onur.Kurtulmus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/onurkurtulmus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Repos\\BulkyBook-main\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
-                "projectPath": "C:\\Repos\\BulkyBook-main\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
+              "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj": {
+                "projectPath": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj"
               },
-              "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\BulkyBook.Models.csproj": {
-                "projectPath": "C:\\Repos\\BulkyBook-main\\BulkyBook.Models\\BulkyBook.Models.csproj"
+              "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/BulkyBook.Models.csproj": {
+                "projectPath": "/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBook.Models/BulkyBook.Models.csproj"
               }
             }
           }
@@ -210,7 +189,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.2, )"
+              "version": "[6.0.3, )"
             }
           },
           "imports": [
@@ -231,7 +210,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
