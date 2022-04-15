@@ -5,12 +5,12 @@ namespace BulkyBook.DataAccess.Repository.IRepository
 {
 	public interface IRepository<T> where T : class
 	{
-		IEnumerable<T> GetAll();
+		IEnumerable<T> GetAll(string? includeProperties = null);
 
 		void Add(T entity);
 		void Remove(T entity);
 		void RemoveRange(IEnumerable<T> entity);
-		T GetFirstOrDefault(Expression<Func<T, bool>> filter);
+		T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties = null);
 
 	}
 }
