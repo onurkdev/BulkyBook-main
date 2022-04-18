@@ -1,10 +1,8 @@
 ﻿<Properties StartupConfiguration="{9B4EA184-C079-4470-86BA-1DD0570BA262}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Areas/Customer/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Program.cs">
     <Files>
       <File FileName="BulkyBookWeb/Areas/Customer/Views/Home/Index.cshtml" Line="12" Column="27" />
-      <File FileName="BulkyBookWeb/Areas/Customer/Views/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="BulkyBookWeb/Areas/Customer/Views/Details/Index.cshtml" Line="3" Column="1" />
-      <File FileName="BulkyBookWeb/Areas/Customer/Controllers/HomeController.cs" Line="28" Column="22" />
+      <File FileName="BulkyBookWeb/Program.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,11 +12,16 @@
               <Node name="Repository" expanded="True" />
             </Node>
             <Node name="BulkyBook.Models" expanded="True">
-              <Node name="Dependencies" selected="True" />
               <Node name="ViewModels" expanded="True" />
             </Node>
             <Node name="BulkyBookWeb" expanded="True">
               <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Product" expanded="True" />
+                  </Node>
+                </Node>
                 <Node name="Customer" expanded="True">
                   <Node name="Controllers" expanded="True" />
                   <Node name="Views" expanded="True">
