@@ -1,15 +1,23 @@
 ﻿<Properties StartupConfiguration="{9B4EA184-C079-4470-86BA-1DD0570BA262}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="BulkyBookWeb/Areas/Customer/Views/Home/Index.cshtml" Line="12" Column="27" />
-      <File FileName="BulkyBookWeb/Program.cs" Line="11" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/CompanyController.cs" Line="14" Column="62" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Views/Company/Index.cshtml" Line="40" Column="29" />
+      <File FileName="BulkyBookWeb/wwwroot/js/company.js" Line="16" Column="21" />
+      <File FileName="BulkyBook.Models/Company.cs" Line="8" Column="41" />
+      <File FileName="BulkyBookWeb/Views/Shared/_Layout.cshtml" Line="53" Column="67" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/CategoryController.cs" Line="88" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Views/Company/Upsert.cshtml" Line="62" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BulkyBook" expanded="True">
             <Node name="BulkyBook.DataAccess" expanded="True">
-              <Node name="Repository" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="IRepository" expanded="True" />
+              </Node>
             </Node>
             <Node name="BulkyBook.Models" expanded="True">
               <Node name="ViewModels" expanded="True" />
@@ -19,13 +27,24 @@
                 <Node name="Admin" expanded="True">
                   <Node name="Controllers" expanded="True" />
                   <Node name="Views" expanded="True">
-                    <Node name="Product" expanded="True" />
+                    <Node name="Category" expanded="True" />
+                    <Node name="Company" expanded="True" />
+                    <Node name="CoverType" expanded="True" />
                   </Node>
                 </Node>
                 <Node name="Customer" expanded="True">
                   <Node name="Controllers" expanded="True" />
                   <Node name="Views" expanded="True">
                     <Node name="Home" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True">
+                    <Node name="Account" expanded="True">
+                      <Node name="Login.cshtml" expanded="True" />
+                      <Node name="LoginWith2fa.cshtml" expanded="True" />
+                      <Node name="Register.cshtml" expanded="True" />
+                    </Node>
                   </Node>
                 </Node>
               </Node>
@@ -45,12 +64,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BulkyBook.Utility FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BulkyBook.Utility FirstBuild="True" />
 </Properties>
