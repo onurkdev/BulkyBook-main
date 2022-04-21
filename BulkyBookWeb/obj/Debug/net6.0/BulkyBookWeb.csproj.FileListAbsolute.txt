@@ -829,3 +829,5 @@ C:/Repos/BulkyBook-main/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.csproj.Assemb
 /Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.pdb
 /Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.genruntimeconfig.cache
 /Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBookWeb/obj/Debug/net6.0/ref/BulkyBookWeb.dll
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBookWeb/bin/Debug/net6.0/BulkyBook.Utility.dll
+/Users/onurkurtulmus/Documents/WEB-DEV/BulkyBook-main/BulkyBookWeb/bin/Debug/net6.0/BulkyBook.Utility.pdb

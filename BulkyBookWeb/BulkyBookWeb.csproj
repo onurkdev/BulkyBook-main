@@ -27,6 +27,9 @@
     <ProjectReference Include="..\BulkyBook.Models\BulkyBook.Models.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
+    <ProjectReference Include="..\BulkyBook.Utility\BulkyBook.Utility.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\images\" />
